@@ -16,7 +16,7 @@ Antes de começar, certifique-se de ter os seguintes itens instalados em seu sis
 1. Clone o repositório para o seu computador:
 
    ```bash
-   git clone https://github.com/mths0303s/HallowsWear
+   git clone https://github.com/mths0303s/HallowsWear.git
    ```
 
 2. Acesse a pasta do projeto:
@@ -43,7 +43,7 @@ Isso irá iniciar o Next.js em `http://localhost:3000`. Abra esse endereço no s
 
 ### Comandos Comuns
 
-- **Desenvolvimento**: Inicia o servidor de desenvolvimento e abre a aplicação no navegador.
+- **Desenvolvimento**: Inicia o servidor de desenvolvimento.
 
   ```bash
   npm run dev
